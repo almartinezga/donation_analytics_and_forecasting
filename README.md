@@ -1,4 +1,4 @@
-# Descriptive & Predictive Analytics for Regional Charity Impact
+# Predictive Analytics for Regional Charity Impact
 
 ## Summary
 This project explores and predicts regional donation and project trends using open charity data from ``Eid Charity``
